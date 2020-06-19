@@ -1,4 +1,4 @@
 # coding-book
-bu repo egitim amacli olusturulmustur.
+bu repo egitim amaciyla olusturulmustur.
 ## Alt baslik
 **asdfg**
